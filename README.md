@@ -1,8 +1,6 @@
 # Specializations
 ## holbertonschool-web_react
-### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-
-## Projects
+### Projects
 :open_file_folder:
 * [x] 589 0x00. Typescript
 * [x] 581 0x01. Webpack
@@ -15,5 +13,6 @@
 * [x] 611 0x08. React Redux action creator+normalizr
 * [x] 612 0x09. React Redux reducer+selector
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
